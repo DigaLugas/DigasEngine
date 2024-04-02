@@ -1,0 +1,17 @@
+﻿  DigasEngine.cpp
+C:\Users\win\source\repos\DigasEngine\DigasEngine\olcConsoleGameEngine.h(759,13): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+  (compilando o arquivo fonte 'DigasEngine.cpp')
+  
+C:\Users\win\source\repos\DigasEngine\DigasEngine\olcConsoleGameEngine.h(1099,31): warning C4267: 'return': conversão de 'size_t' para 'unsigned int', possível perda de dados
+  (compilando o arquivo fonte 'DigasEngine.cpp')
+  
+C:\Users\win\source\repos\DigasEngine\DigasEngine\olcConsoleGameEngine.h(1196,4): warning C4312: 'conversão de tipo': conversão de 'DWORD' para 'olcConsoleGameEngine *' de tamanho maior
+  (compilando o arquivo fonte 'DigasEngine.cpp')
+  
+C:\Users\win\source\repos\DigasEngine\DigasEngine\DigasEngine.cpp(166,43): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\win\source\repos\DigasEngine\DigasEngine\DigasEngine.cpp(166,22): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\win\source\repos\DigasEngine\DigasEngine\DigasEngine.cpp(165,43): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\win\source\repos\DigasEngine\DigasEngine\DigasEngine.cpp(165,22): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\win\source\repos\DigasEngine\DigasEngine\DigasEngine.cpp(164,55): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\win\source\repos\DigasEngine\DigasEngine\DigasEngine.cpp(164,34): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+  DigasEngine.vcxproj -> C:\Users\win\source\repos\DigasEngine\x64\Debug\DigasEngine.exe
